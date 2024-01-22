@@ -11,5 +11,5 @@ public class AnalisarNumero {
             positivoOuNegativo = "negativo";
         }
         return numero + " é " + parOuImpar + " e " + positivoOuNegativo;
-    };
+    }
 }

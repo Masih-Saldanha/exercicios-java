@@ -1,3 +1,4 @@
+import duplicadosNao.DuplicadosNao;
 import fibonacci.Fibonacci;
 import multiplicaAi.MultiplicaAi;
 import o_que_e_esse_numero.AnalisarNumero;
@@ -20,5 +21,11 @@ public class Main {
 //        Pirâmide de números
 //        PiramideDeNumeros piramideDeNumeros = new PiramideDeNumeros();
 //        piramideDeNumeros.piramideDeNumeros(3,9);
+
+//        Duplicados não!
+//        String[] array_1 = new String[]{"a", "b", "c"};
+//        String[] array_2 = new String[]{"b", "c", "d"};
+//        DuplicadosNao duplicadosNao = new DuplicadosNao();
+//        duplicadosNao.duplicadosNao(array_1, array_2);
     }
 }

@@ -1,4 +1,5 @@
 import fibonacci.Fibonacci;
+import multiplicaAi.MultiplicaAi;
 import o_que_e_esse_numero.AnalisarNumero;
 
 public class Main {
@@ -10,5 +11,9 @@ public class Main {
 //        Fibonacci
 //        Fibonacci fibonacci = new Fibonacci();
 //        fibonacci.fibonacci(10);
+
+//        MultiplicaAi
+//        MultiplicaAi multiplicaAi = new MultiplicaAi();
+//        multiplicaAi.multiplicaAi(5);
     }
 }
